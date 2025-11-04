@@ -9,7 +9,7 @@ If you need to build Telog manually, follow these steps:
 1. **Clone the repository**:
 
 ```bash
-git clone git@github.com:trinhminhtriet/telog.git
+git clone git@github.com:davidakpele/telog.git
 ```
 
 2. **Choose the features you want**:
